@@ -1,5 +1,12 @@
+# Virtual environments
+breast_env/
 venv/
-.venv/
 env/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
